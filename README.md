@@ -1,1 +1,2 @@
-#これはraisetech_Javaフルコース課題です
+# raisetech_Javaフルコース課題
+raisetech_Javaフルコース課題です
